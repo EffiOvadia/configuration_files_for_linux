@@ -1,2 +1,1 @@
-# configuration_files_for_linux
-Configuration files for Linux 
+# Configuration files for Linux distribution
