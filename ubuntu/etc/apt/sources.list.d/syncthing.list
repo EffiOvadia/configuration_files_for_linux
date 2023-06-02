@@ -1,1 +1,1 @@
-deb [arch=amd64] https://apt.syncthing.net/ syncthing stable
+deb [arch=amd64 signed-by=/etc/apt/trusted.gpg.d/syncthing.gpg] https://apt.syncthing.net/ syncthing stable

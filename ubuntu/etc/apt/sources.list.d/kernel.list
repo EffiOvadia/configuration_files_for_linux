@@ -1,1 +1,1 @@
-deb [arch=amd64] https://ppa.launchpadcontent.net/canonical-kernel-team/ppa/ubuntu/ kinetic main
+deb https://ppa.launchpadcontent.net/canonical-kernel-team/ppa/ubuntu/ kinetic main

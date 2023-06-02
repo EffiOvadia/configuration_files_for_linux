@@ -1,2 +1,1 @@
-deb https://ppa.launchpadcontent.net/deluge-team/stable/ubuntu/ kinetic main
-# deb-src https://ppa.launchpadcontent.net/deluge-team/stable/ubuntu/ kinetic main
+deb [arch=amd64 signed-by=/etc/apt/trusted.gpg.d/delug.gpg] https://ppa.launchpadcontent.net/deluge-team/stable/ubuntu/ kinetic main

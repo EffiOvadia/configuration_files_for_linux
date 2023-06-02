@@ -1,1 +1,1 @@
-deb [arch=amd64] https://ppa.launchpadcontent.net/phoerious/keepassxc/ubuntu/ kinetic main
+deb [arch=amd64 signed-by=/etc/apt/trusted.gpg.d/keepassxc.gpg] https://ppa.launchpadcontent.net/phoerious/keepassxc/ubuntu/ kinetic main

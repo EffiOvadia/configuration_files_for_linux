@@ -1,1 +1,1 @@
-deb [arch=amd64] https://build.openvpn.net/debian/openvpn/release/2.5 jammy main
+deb [arch=amd64 signed-by=/etc/apt/trusted.gpg.d/openvpn.gpg] https://build.openvpn.net/debian/openvpn/release/2.5 jammy main

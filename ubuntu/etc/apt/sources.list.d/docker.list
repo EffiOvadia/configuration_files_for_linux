@@ -1,2 +1,1 @@
-deb [arch=amd64] https://download.docker.com/linux/ubuntu kinetic stable
-# deb-src [arch=amd64] https://download.docker.com/linux/ubuntu focal stable
+deb [arch=amd64 signed-by=/etc/apt/trusted.gpg.d/docker.gpg] https://download.docker.com/linux/ubuntu kinetic stable
