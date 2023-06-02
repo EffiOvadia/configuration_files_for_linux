@@ -1,0 +1,1 @@
+deb [arch=amd64] https://build.openvpn.net/debian/openvpn/release/2.5 jammy main
