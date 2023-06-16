@@ -1,0 +1,1 @@
+deb [arch=amd64 signed-by=/etc/apt/trusted.gpg.d/vivaldi.gpg] https://repo.vivaldi.com/stable/deb/ stable main
