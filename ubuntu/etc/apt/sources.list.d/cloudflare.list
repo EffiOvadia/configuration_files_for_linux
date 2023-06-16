@@ -1,1 +1,4 @@
-deb [arch=amd64 signed-by=/etc/apt/trusted.gpg.d/cloudflare.gpg] https://pkg.cloudflareclient.com/ jammy main
+### Ubuntu
+deb [arch=amd64 signed-by=/etc/apt/trusted.gpg.d/cloudflare.gpg] https://pkg.cloudflareclient.com/ lunar main
+### Debain 
+#deb [arch=amd64 signed-by=/etc/apt/trusted.gpg.d/cloudflare.gpg] https://pkg.cloudflareclient.com/ bookworm main

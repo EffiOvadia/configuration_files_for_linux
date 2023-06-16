@@ -1,1 +1,4 @@
-deb [arch=amd64 signed-by=/etc/apt/trusted.gpg.d/dropbox.gpg] http://linux.dropbox.com/ubuntu disco main
+### Ubuntu 23.04
+deb [arch=amd64 signed-by=/etc/apt/trusted.gpg.d/dropbox.gpg] http://linux.dropbox.com/ubuntu lunar main
+### Debain 12
+#deb [arch=amd64 signed-by=/etc/apt/trusted.gpg.d/dropbox.gpg] http://linux.dropbox.com/debian bookworm main
