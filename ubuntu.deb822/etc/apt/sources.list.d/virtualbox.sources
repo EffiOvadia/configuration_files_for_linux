@@ -1,3 +1,5 @@
+X-Repolib-Name: Oracle VirualBox 
+Enabled: yes
 Types: deb
 URIs: https://download.virtualbox.org/virtualbox/debian
 Suites: jammy
