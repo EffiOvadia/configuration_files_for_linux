@@ -1,0 +1,6 @@
+Types: deb
+URIs: http://repo.yandex.ru/yandex-browser/deb
+Suites: stable
+Components: main
+Architectures: amd64
+Signed-By: /etc/apt/trusted.gpg.d/yandex.gpg
