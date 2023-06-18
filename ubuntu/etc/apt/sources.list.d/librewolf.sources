@@ -1,0 +1,6 @@
+Types: deb
+URIs: http://deb.librewolf.net
+Suites: jammy
+Components: main
+Architectures: amd64
+Signed-By: /etc/apt/trusted.gpg.d/librewolf.gpg

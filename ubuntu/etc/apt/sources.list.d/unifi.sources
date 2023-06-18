@@ -1,0 +1,6 @@
+Types: deb
+URIs: https://www.ui.com/downloads/unifi/debian
+Suites: stable
+Components: ubiquiti
+Architectures: amd64
+Signed-By: /etc/apt/trusted.gpg.d/unifi.gpg

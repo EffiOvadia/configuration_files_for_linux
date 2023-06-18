@@ -1,0 +1,6 @@
+Types: deb
+URIs: https://pkg.cloudflareclient.com/
+Suites: jammy
+Components: main
+Architectures: amd64
+Signed-By: /etc/apt/trusted.gpg.d/cloudflare.gpg

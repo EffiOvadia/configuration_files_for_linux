@@ -1,0 +1,6 @@
+Types: deb
+URIs: https://download.virtualbox.org/virtualbox/debian
+Suites: jammy
+Components: non-free contrib
+Architectures: amd64
+Signed-By: /etc/apt/trusted.gpg.d/virtualbox.gpg

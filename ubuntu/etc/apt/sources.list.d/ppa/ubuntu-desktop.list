@@ -1,1 +1,0 @@
-deb [arch=amd64 signed-by=/etc/apt/trusted.gpg.d/ubuntu-desktop.gpg] https://ppa.launchpadcontent.net/ubuntu-desktop/ppa/ubuntu/ lunar main

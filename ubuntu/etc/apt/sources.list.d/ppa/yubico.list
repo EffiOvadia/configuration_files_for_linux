@@ -1,1 +1,0 @@
-deb [arch=amd64 signed-by=/etc/apt/trusted.gpg.d/yubico.gpg] https://ppa.launchpadcontent.net/yubico/stable/ubuntu/ kinetic main
