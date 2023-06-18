@@ -1,3 +1,5 @@
+X-Repolib-Name: NVidia Drivers PPA
+Enabled: yes
 Types: deb
 URIs: https://ppa.launchpadcontent.net/graphics-drivers/ppa/ubuntu
 Suites: lunar

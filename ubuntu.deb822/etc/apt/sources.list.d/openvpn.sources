@@ -1,3 +1,5 @@
+X-Repolib-Name: Openvpn
+Enabled: yes
 Types: deb
 URIs: https://build.openvpn.net/debian/openvpn/release/2.6
 Suites: lunar

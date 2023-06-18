@@ -1,3 +1,5 @@
+X-Repolib-Name: Microsoft Azure Cloud tools
+Enabled: yes
 Types: deb
 URIs: https://packages.microsoft.com/repos/azure-cli/
 Suites: jammy

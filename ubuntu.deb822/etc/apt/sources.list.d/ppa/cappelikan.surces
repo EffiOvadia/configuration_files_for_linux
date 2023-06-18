@@ -1,3 +1,5 @@
+X-Repolib-Name: Ubuntu mainline kernel installer (Non Official)
+Enabled: yes
 Types: deb
 URIs: https://ppa.launchpadcontent.net/cappelikan/ppa/ubuntu/
 Suites: lunar

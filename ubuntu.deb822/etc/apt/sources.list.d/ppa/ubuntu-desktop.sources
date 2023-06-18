@@ -1,3 +1,5 @@
+X-Repolib-Name: Ubuntu Desktop PPA
+Enabled: yes
 Types: deb
 URIs: https://ppa.launchpadcontent.net/ubuntu-desktop/ppa/ubuntu/
 Suites: lunar

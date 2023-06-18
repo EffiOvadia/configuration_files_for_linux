@@ -1,3 +1,5 @@
+X-Repolib-Name: KDenLive PPA
+Enabled: yes
 Types: deb
 URIs: https://ppa.launchpadcontent.net/kdenlive/kdenlive-stable/ubuntu/
 Suites: lunar

@@ -1,3 +1,5 @@
+X-Repolib-Name: Teamviewer
+Enabled: yes
 Types: deb
 URIs: https://linux.teamviewer.com/deb
 Suites: stable

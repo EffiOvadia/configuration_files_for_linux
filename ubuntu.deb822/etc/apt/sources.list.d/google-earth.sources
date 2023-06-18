@@ -1,3 +1,5 @@
+X-Repolib-Name: Google Earth 
+Enabled: yes
 Types: deb
 URIs: http://dl.google.com/linux/earth/deb/
 Suites: stable

@@ -1,3 +1,5 @@
+X-Repolib-Name: MozillaTeam PPA
+Enabled: yes
 Types: deb
 URIs: https://ppa.launchpadcontent.net/mozillateam/ppa/ubuntu/
 Suites: lunar

@@ -1,3 +1,5 @@
+X-Repolib-Name: Vivaldi Browser
+Enabled: yes
 Types: deb
 URIs: https://repo.vivaldi.com/stable/deb/
 Suites: stable

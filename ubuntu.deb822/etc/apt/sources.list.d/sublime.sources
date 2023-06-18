@@ -1,3 +1,5 @@
+X-Repolib-Name: Subline text editor
+Enabled: yes
 Types: deb
 URIs: https://download.sublimetext.com/
 Suites: apt/stable/

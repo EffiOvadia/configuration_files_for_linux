@@ -1,3 +1,5 @@
+X-Repolib-Name: Skype
+Enabled: yes
 Types: deb
 URIs: https://repo.skype.com/deb
 Suites: stable

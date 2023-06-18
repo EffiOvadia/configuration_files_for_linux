@@ -1,3 +1,5 @@
+X-Repolib-Name: AnyDesk
+Enabled: yes
 Types: deb
 URIs: http://deb.anydesk.com/ 
 Suites: all

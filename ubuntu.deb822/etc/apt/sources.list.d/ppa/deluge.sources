@@ -1,3 +1,5 @@
+X-Repolib-Name: Deluge PPA
+Enabled: yes
 Types: deb
 URIs: https://ppa.launchpadcontent.net/deluge-team/stable/ubuntu/
 Suites: kinetic

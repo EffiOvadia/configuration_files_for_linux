@@ -1,3 +1,5 @@
+X-Repolib-Name: Spotify
+Enabled: yes
 Types: deb
 URIs: http://repository.spotify.com
 Suites: stable

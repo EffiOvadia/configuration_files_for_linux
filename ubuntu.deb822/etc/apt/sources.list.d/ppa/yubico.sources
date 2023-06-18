@@ -1,3 +1,5 @@
+X-Repolib-Name: Yubico PPA
+Enabled: yes
 Types: deb
 URIs: https://ppa.launchpadcontent.net/yubico/stable/ubuntu/
 Suites: lunar
