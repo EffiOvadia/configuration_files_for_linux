@@ -1,0 +1,1 @@
+deb [arch=amd64 signed-by=/etc/apt/trusted.gpg.d/solaar.gpg] https://ppa.launchpadcontent.net/solaar-unifying/stable/ubuntu/ kinetic main

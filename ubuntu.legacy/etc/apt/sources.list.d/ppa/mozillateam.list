@@ -1,0 +1,1 @@
+deb [arch=amd64 signed-by=/etc/apt/trusted.gpg.d/mozillateam.gpg] https://ppa.launchpadcontent.net/mozillateam/ppa/ubuntu/ kinetic main

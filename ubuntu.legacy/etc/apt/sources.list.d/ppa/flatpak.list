@@ -1,0 +1,1 @@
+deb [arch=amd64 signed-by=/etc/apt/trusted.gpg.d/flatpak.gpg] https://ppa.launchpadcontent.net/flatpak/stable/ubuntu/ jammy main

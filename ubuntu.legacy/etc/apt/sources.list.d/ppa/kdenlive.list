@@ -1,0 +1,1 @@
+deb [arch=amd64 signed-by=/etc/apt/trusted.gpg.d/kdenlive.gpg] https://ppa.launchpadcontent.net/kdenlive/kdenlive-stable/ubuntu/ lunar main
