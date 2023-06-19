@@ -1,3 +1,5 @@
+X-Repolib-Name: Microsoft Teams
+Enabled: yes
 Types: deb
 URIs: https://packages.microsoft.com/repos/ms-teams
 Suites: stable

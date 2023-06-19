@@ -1,3 +1,5 @@
+X-Repolib-Name: Signal messenger desktop
+Enabled: yes
 Types: deb
 URIs: https://updates.signal.org/desktop/apt
 Suites: xenial

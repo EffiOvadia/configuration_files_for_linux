@@ -1,3 +1,5 @@
+X-Repolib-Name: LibreWolf Browser
+Enabled: yes
 Types: deb
 URIs: http://deb.librewolf.net
 Suites: bullseye

@@ -1,3 +1,5 @@
+X-Repolib-Name: Microsoft Powershell
+Enabled: yes
 Types: deb
 URIs: https://packages.microsoft.com/repos/microsoft-debian-bullseye-prod
 Suites: bullseye

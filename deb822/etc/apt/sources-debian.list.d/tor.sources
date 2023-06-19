@@ -1,3 +1,5 @@
+X-Repolib-Name: TOR Onion Browser
+Enabled: yes
 Types: deb
 URIs: https://deb.torproject.org/torproject.org
 Suites: bookworm

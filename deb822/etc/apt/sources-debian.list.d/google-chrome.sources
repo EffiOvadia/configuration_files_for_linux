@@ -1,3 +1,5 @@
+X-Repolib-Name: Google Chrome Browser
+Enabled: yes
 Types: deb
 URIs: https://dl.google.com/linux/chrome/deb/
 Suites: stable

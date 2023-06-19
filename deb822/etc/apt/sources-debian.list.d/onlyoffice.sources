@@ -1,5 +1,7 @@
+X-Repolib-Name: Onlyoffice
+Enabled: yes
 Types: deb
-URIs: https://download.onlyoffice.com/repo/debian 
+URIs: https://download.onlyoffice.com/repo/debian
 Suites: squeeze
 Components: main
 Architectures: amd64

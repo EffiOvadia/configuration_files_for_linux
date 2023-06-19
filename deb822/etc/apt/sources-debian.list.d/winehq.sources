@@ -1,3 +1,5 @@
+X-Repolib-Name: WineHQ Emulator
+Enabled: yes
 Types: deb
 URIs: https://dl.winehq.org/wine-builds/ubuntu
 Suites: bookworm

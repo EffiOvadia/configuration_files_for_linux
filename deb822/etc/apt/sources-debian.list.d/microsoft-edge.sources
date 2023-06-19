@@ -1,3 +1,5 @@
+X-Repolib-Name:  Microsoft Edge Browser
+Enabled: yes
 Types: deb
 URIs: https://packages.microsoft.com/repos/edge/
 Suites: stable
