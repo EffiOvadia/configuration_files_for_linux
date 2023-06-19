@@ -1,5 +1,6 @@
 X-Repolib-Name: Cloudflare WARP 
-Enabled: yesTypes: deb
+Enabled: yes
+Types: deb
 URIs: https://pkg.cloudflareclient.com/
 Suites: jammy
 Components: main
