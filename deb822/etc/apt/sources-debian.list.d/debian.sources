@@ -1,4 +1,4 @@
-X-Repolib-Name: $(lsb_release -sd) $(lsb_release -sc)
+X-Repolib-Name: Debian GNU/Linux 12 (bookworm)
 Enabled: yes
 Types: deb deb-src
 URIs: https://deb.debian.org/debian/ 
