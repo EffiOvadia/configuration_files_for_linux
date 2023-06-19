@@ -1,0 +1,8 @@
+X-Repolib-Name: Ubuntu Kernel PPA
+Enabled: yes
+Types: deb
+URIs: https://ppa.launchpadcontent.net/canonical-kernel-team/ppa/ubuntu/
+Suites: lunar
+Components: main
+Architectures: amd64
+Signed-By: /etc/apt/trusted.gpg.d/kernel.gpg

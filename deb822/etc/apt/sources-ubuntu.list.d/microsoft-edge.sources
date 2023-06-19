@@ -1,0 +1,8 @@
+X-Repolib-Name:  Microsoft Edge Browser
+Enabled: yes
+Types: deb
+URIs: https://packages.microsoft.com/repos/edge/
+Suites: stable
+Components: main
+Architectures: amd64
+Signed-By: /etc/apt/trusted.gpg.d/microsoft.gpg

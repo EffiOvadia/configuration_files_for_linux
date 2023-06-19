@@ -1,0 +1,8 @@
+X-Repolib-Name: Opera Browser
+Enabled: yes
+Types: deb
+URIs: https://deb.opera.com/opera-stable/
+Suites: stable
+Components: non-free
+Architectures: amd64
+Signed-By: /etc/apt/trusted.gpg.d/opera.gpg

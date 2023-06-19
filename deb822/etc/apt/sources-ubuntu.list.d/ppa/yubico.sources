@@ -1,0 +1,8 @@
+X-Repolib-Name: Yubico PPA
+Enabled: yes
+Types: deb
+URIs: https://ppa.launchpadcontent.net/yubico/stable/ubuntu/
+Suites: lunar
+Components: main
+Architectures: amd64
+Signed-By: /etc/apt/trusted.gpg.d/yubico.gpg

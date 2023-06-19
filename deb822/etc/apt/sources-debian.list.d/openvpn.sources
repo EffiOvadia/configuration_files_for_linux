@@ -1,0 +1,6 @@
+Types: deb
+URIs: https://build.openvpn.net/debian/openvpn/release/2.6 
+Suites: bookworm
+Components: main
+Architectures: amd64
+Signed-By: /etc/apt/trusted.gpg.d/openvpn.gpg
