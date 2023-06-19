@@ -1,8 +1,0 @@
-X-Repolib-Name: Subline text editor
-Enabled: yes
-Types: deb
-URIs: https://download.sublimetext.com/
-Suites: apt/stable/
-Components: 
-Architectures: amd64
-Signed-By: /etc/apt/trusted.gpg.d/sublime.gpg

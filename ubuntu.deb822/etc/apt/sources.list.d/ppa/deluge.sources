@@ -1,8 +1,0 @@
-X-Repolib-Name: Deluge PPA
-Enabled: yes
-Types: deb
-URIs: https://ppa.launchpadcontent.net/deluge-team/stable/ubuntu/
-Suites: kinetic
-Components: main
-Architectures: amd64
-Signed-By: /etc/apt/trusted.gpg.d/deluge.gpg

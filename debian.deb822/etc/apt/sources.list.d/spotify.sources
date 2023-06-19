@@ -1,6 +1,0 @@
-Types: deb
-URIs: http://repository.spotify.com 
-Suites: stable
-Components: non-free
-Architectures: amd64
-Signed-By: /etc/apt/trusted.gpg.d/spotify.gpg

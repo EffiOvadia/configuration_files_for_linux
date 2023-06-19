@@ -1,6 +1,0 @@
-Types: deb
-URIs: https://deb.torproject.org/torproject.org
-Suites: bookworm
-Components: main
-Architectures: amd64
-Signed-By: /etc/apt/trusted.gpg.d/tor.gpg

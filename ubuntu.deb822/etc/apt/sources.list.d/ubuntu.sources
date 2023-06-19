@@ -1,8 +1,0 @@
-X-Repolib-Name: Ubuntu 23.04 lunar
-Enabled: yes
-Types: deb
-URIs: http://us.archive.ubuntu.com/ubuntu http://cn.archive.ubuntu.com/ubuntu
-Suites: lunar lunar-updates lunar-backports lunar-security
-Components: main restricted universe multiverse
-Architectures: amd64
-Signed-By: /usr/share/keyrings/ubuntu-archive-keyring.gpg

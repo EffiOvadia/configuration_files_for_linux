@@ -1,6 +1,0 @@
-Types: deb
-URIs: https://download.virtualbox.org/virtualbox/debian
-Suites: bullseye
-Components: non-free contrib
-Architectures: amd64
-Signed-By: /etc/apt/trusted.gpg.d/virtualbox.gpg

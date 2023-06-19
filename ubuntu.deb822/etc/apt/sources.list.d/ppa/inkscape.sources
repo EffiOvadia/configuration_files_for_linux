@@ -1,8 +1,0 @@
-X-Repolib-Name: Inkscape PPA
-Enabled: yes
-Types: deb
-URIs: https://ppa.launchpadcontent.net/inkscape.dev/stable/ubuntu/
-Suites: lunar
-Components: main
-Architectures: amd64
-Signed-By: /etc/apt/trusted.gpg.d/inkscape.gpg
