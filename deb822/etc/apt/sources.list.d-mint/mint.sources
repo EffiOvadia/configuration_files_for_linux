@@ -5,7 +5,7 @@ URIs: http://packages.linuxmint.com
 Suites: vera
 Components: main upstream import backport
 Architectures: amd64
-Signed-By: /etc/apt/trusted.gpg.d/linuxmint-keyring.gpg
+Signed-By: /usr/share/keyrings/linuxmint-keyring.gpg
 
 X-Repolib-Name: Ubuntu jammy
 Enabled: yes
