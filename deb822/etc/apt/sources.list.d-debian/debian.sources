@@ -1,8 +1,8 @@
-X-Repolib-Name: Debian GNU/Linux 12 (bookworm)
+X-Repolib-Name: Debian GNU/Linux (stable)
 Enabled: yes
 Types: deb 
 URIs: https://deb.debian.org/debian/ 
-Suites: bookworm bookworm-updates bookworm-backports
+Suites: stable stable-updates stable-backports
 Components: main contrib non-free non-free-firmware
 Architectures: amd64
-Signed-By:
+Signed-By: /usr/share/keyrings/debian-archive-keyring.gpg
