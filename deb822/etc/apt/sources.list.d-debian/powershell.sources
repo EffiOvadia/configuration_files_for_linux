@@ -1,7 +1,7 @@
 X-Repolib-Name: Microsoft Powershell
 Enabled: yes
 Types: deb
-URIs: https://packages.microsoft.com/repos/microsoft-debian-bullseye-prod
+URIs: https://packages.microsoft.com/repos/microsoft-debian-bookworm-prod
 Suites: bullseye
 Components: main
 Architectures: amd64
