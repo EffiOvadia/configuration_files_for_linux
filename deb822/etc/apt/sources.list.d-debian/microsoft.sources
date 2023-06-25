@@ -1,0 +1,44 @@
+X-Repolib-Name: Microsoft Edge Browser
+Enabled: yes
+Types: deb
+URIs: https://packages.microsoft.com/repos/edge/
+Suites: stable
+Components: main
+Architectures: amd64
+Signed-By: /etc/apt/trusted.gpg.d/microsoft.gpg
+
+X-Repolib-Name: Microsoft VSCode
+Enabled: yes
+Types: deb
+URIs: https://packages.microsoft.com/repos/code
+Suites: stable
+Components: main
+Architectures: amd64
+Signed-By: /etc/apt/trusted.gpg.d/microsoft.gpg
+
+X-Repolib-Name: Microsoft Teams
+Enabled: yes
+Types: deb
+URIs: https://packages.microsoft.com/repos/ms-teams
+Suites: stable
+Components: main
+Architectures: amd64
+Signed-By: /etc/apt/trusted.gpg.d/microsoft.gpg
+
+X-Repolib-Name: Microsoft Azure Cloud tools
+Enabled: yes
+Types: deb
+URIs: https://packages.microsoft.com/repos/azure-cli/
+Suites: bullseye
+Components: main
+Architectures: amd64
+Signed-By: /etc/apt/trusted.gpg.d/microsoft.gpg
+
+X-Repolib-Name: Microsoft Powershell
+Enabled: yes
+Types: deb
+URIs: https://packages.microsoft.com/repos/microsoft-debian-bookworm-prod
+Suites: bullseye
+Components: main
+Architectures: amd64
+Signed-By: /etc/apt/trusted.gpg.d/microsoft.gpg
