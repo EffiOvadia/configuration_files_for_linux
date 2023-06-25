@@ -1,0 +1,8 @@
+X-Repolib-Name: Ubuntu Desktop PPA
+Enabled: yes
+Types: deb
+URIs: https://ppa.launchpadcontent.net/ubuntu-desktop/ppa/ubuntu/
+Suites: jammy
+Components: main
+Architectures: amd64
+Signed-By: /etc/apt/trusted.gpg.d/ubuntu-desktop.gpg
