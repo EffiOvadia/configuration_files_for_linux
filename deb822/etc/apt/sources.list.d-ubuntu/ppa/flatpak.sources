@@ -1,4 +1,4 @@
-X-Repolib-Name: Flatpak for Ubuntu PPA
+X-Repolib-Name: Flatpak PPA
 Enabled: yes
 Types: deb
 URIs: https://ppa.launchpadcontent.net/flatpak/stable/ubuntu/

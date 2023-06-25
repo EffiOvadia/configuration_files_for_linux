@@ -1,0 +1,17 @@
+X-Repolib-Name: Linux Mint Vera
+Enabled: yes
+Types: deb
+URIs: http://packages.linuxmint.com
+Suites: vera
+Components: main upstream import backport
+Architectures: amd64
+Signed-By: /etc/apt/trusted.gpg.d/linuxmint-keyring.gpg
+
+X-Repolib-Name: Ubuntu jammy
+Enabled: yes
+Types: deb
+URIs: http://us.archive.ubuntu.com/ubuntu http://cn.archive.ubuntu.com/ubuntu
+Suites: jammy jammy-updates jammy-backports jammy-security
+Components: main restricted universe multiverse
+Architectures: amd64
+Signed-By: /usr/share/keyrings/ubuntu-archive-keyring.gpg
