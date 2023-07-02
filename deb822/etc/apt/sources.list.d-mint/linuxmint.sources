@@ -1,16 +1,18 @@
-X-Repolib-Name: Linux Mint Vera
+# Linux Mint Repositories
+X-Repolib-Name: Linux Mint 21.1 vera
 Enabled: yes
 Types: deb
-URIs: http://packages.linuxmint.com
+URIs: https://packages.linuxmint.com
 Suites: vera
 Components: main upstream import backport
 Architectures: amd64
 Signed-By: /usr/share/keyrings/linuxmint-keyring.gpg
 
-X-Repolib-Name: Ubuntu jammy
+# Ubuntu Repositories
+X-Repolib-Name: Ubuntu Jammy Jellyfish 22.04
 Enabled: yes
 Types: deb
-URIs: http://us.archive.ubuntu.com/ubuntu http://cn.archive.ubuntu.com/ubuntu
+URIs: https://us.archive.ubuntu.com/ubuntu
 Suites: jammy jammy-updates jammy-backports jammy-security
 Components: main restricted universe multiverse
 Architectures: amd64
