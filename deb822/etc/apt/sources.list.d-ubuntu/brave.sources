@@ -6,3 +6,4 @@ Suites: stable
 Components: main
 Architectures: amd64
 Signed-By: /etc/apt/trusted.gpg.d/brave.gpg
+# wget -qO - https://brave-browser-apt-release.s3.brave.com/brave-core.asc | gpg --dearmor > /etc/apt/trusted.gpg.d/brave.gpg

@@ -1,4 +1,4 @@
-X-Repolib-Name: Signal messenger desktop
+X-Repolib-Name: Signal Private Messenger
 Enabled: yes
 Types: deb
 URIs: https://updates.signal.org/desktop/apt
@@ -6,3 +6,4 @@ Suites: xenial
 Components: main
 Architectures: amd64
 Signed-By: /etc/apt/trusted.gpg.d/signal.gpg
+# wget -O- https://updates.signal.org/desktop/apt/keys.asc | gpg --dearmor > /etc/apt/trusted.gpg.d/signal.gpg
