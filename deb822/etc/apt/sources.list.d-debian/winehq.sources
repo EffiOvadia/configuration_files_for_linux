@@ -5,4 +5,5 @@ URIs: https://dl.winehq.org/wine-builds/debian
 Suites: bookworm
 Components: main
 Architectures: amd64 i386
-Signed-By: /etc/apt/trusted.gpg.d/wine.gpg
+Signed-By: /etc/apt/trusted.gpg.d/winehq.gpg
+# wget -qO - https://dl.winehq.org/wine-builds/winehq.key | gpg --dearmor > /etc/apt/trusted.gpg.d/winehq.gpg
