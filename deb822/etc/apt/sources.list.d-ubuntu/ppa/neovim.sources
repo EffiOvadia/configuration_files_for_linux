@@ -1,4 +1,4 @@
-X-Repolib-Name: Ubuntu mainline kernel installer (Non Official)
+X-Repolib-Name: Neovim PPA
 Enabled: yes
 Types: deb
 URIs: https://ppa.launchpadcontent.net/cappelikan/ppa/ubuntu/

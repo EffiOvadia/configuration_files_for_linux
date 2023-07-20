@@ -10,7 +10,7 @@ Signed-By: /etc/apt/trusted.gpg.d/microsoft.gpg
 X-Repolib-Name: Microsoft VSCode
 Enabled: yes
 Types: deb
-URIs: https://packages.microsoft.com/repos/code
+URIs: https://packages.microsoft.com/repos/vscode
 Suites: stable
 Components: main
 Architectures: amd64
