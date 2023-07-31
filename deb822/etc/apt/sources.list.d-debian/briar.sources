@@ -1,0 +1,9 @@
+X-Repolib-Name: Briar Browser
+Enabled: no
+Types: deb
+URIs: https://apt.briarproject.org/
+Suites: bullseye 
+Components: main
+Architectures: amd64
+Signed-By: /etc/apt/trusted.gpg.d/briar.gpg
+# wget -qO - https://briarproject.org/keys/contact.asc | gpg --dearmor > /etc/apt/trusted.gpg.d/briar.gpg
