@@ -2,7 +2,7 @@ X-Repolib-Name: KeePassXC PPA
 Enabled: yes
 Types: deb
 URIs: https://ppa.launchpadcontent.net/phoerious/keepassxc/ubuntu/
-Suites: lunar
+Suites: mantic
 Components: main
 Architectures: amd64
 Signed-By: /etc/apt/trusted.gpg.d/keepassxc.gpg
