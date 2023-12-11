@@ -1,8 +1,8 @@
-X-Repolib-Name: Ubuntu 23.04 lunar
+X-Repolib-Name: Ubuntu 23.10 mantic
 Enabled: yes
 Types: deb
 URIs: http://us.archive.ubuntu.com/ubuntu http://cn.archive.ubuntu.com/ubuntu
-Suites: lunar lunar-updates lunar-backports lunar-security
+Suites: mantic mantic-updates mantic-backports mantic-security
 Components: main restricted universe multiverse
 Architectures: amd64
 Signed-By: /usr/share/keyrings/ubuntu-archive-keyring.gpg
