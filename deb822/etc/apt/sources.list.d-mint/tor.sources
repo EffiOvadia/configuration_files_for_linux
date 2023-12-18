@@ -1,4 +1,4 @@
-X-Repolib-Name: TOR Onion Browser
+X-Repolib-Name: TOR
 Enabled: yes
 Types: deb
 URIs: https://deb.torproject.org/torproject.org

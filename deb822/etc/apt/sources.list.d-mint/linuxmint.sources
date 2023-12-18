@@ -2,7 +2,8 @@
 X-Repolib-Name: Linux Mint 21.1 vera
 Enabled: yes
 Types: deb
-URIs: https://packages.linuxmint.com
+# Original URL: https://packages.linuxmint.com
+URIs: https://mirror1.ku.ac.th/linuxmint-packages https://mirror.kku.ac.th/linuxmint-packages
 Suites: vera
 Components: main upstream import backport
 Architectures: amd64
@@ -59,13 +60,3 @@ Signed-By:
  vwsQCkXd7RcMKF1KIOGVnmClF1g=
  =jIYH
  -----END PGP PUBLIC KEY BLOCK-----
-
-# Ubuntu Repositories
-X-Repolib-Name: Ubuntu Jammy Jellyfish 22.04
-Enabled: yes
-Types: deb
-URIs: https://us.archive.ubuntu.com/ubuntu
-Suites: jammy jammy-updates jammy-backports jammy-security
-Components: main restricted universe multiverse
-Architectures: amd64
-Signed-By: /usr/share/keyrings/ubuntu-archive-keyring.gpg
