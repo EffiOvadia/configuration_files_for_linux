@@ -58,6 +58,4 @@ Signed-By:
  CFIT2zpFW4YaLJqnwlz1iQqnfjXf+X9SkUYwLUf9Tg==
  =ebxN
  -----END PGP PUBLIC KEY BLOCK-----
-
-### get new key:
-# wget -O - https://linux.teamviewer.com/pubkey/currentkey.asc
+# wget -O - https://linux.teamviewer.com/pubkey/currentkey.asc |  sed 's/^/ /'
