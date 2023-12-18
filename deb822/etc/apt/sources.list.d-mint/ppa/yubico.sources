@@ -5,4 +5,16 @@ URIs: https://ppa.launchpadcontent.net/yubico/stable/ubuntu/
 Suites: jammy
 Components: main
 Architectures: amd64
-Signed-By: /etc/apt/trusted.gpg.d/yubico.gpg
+Signed-By: 
+ -----BEGIN PGP PUBLIC KEY BLOCK-----
+ .
+ mI0EUIkpzwEEAKjv+sZgkl69lU6nWlqLsfZmey1K/8vGJVNBF1WsP3xpPaJz1fAs
+ AtTGk1wJC4r6lRwy9u2mplT6iDdK9rRrOgb3RiyKWfCIerQPLDWKL1QePGuLOpqQ
+ 7siAX5J8JdV1TOeRCZH95qFKJ1uNb2LQOYvt8IHZVipzfLTd/guwvvhvABEBAAG0
+ GExhdW5jaHBhZCBQUEEgZm9yIFl1Ymljb4i4BBMBAgAiBQJQiSnPAhsDBgsJCAcD
+ AgYVCAIJCgsEFgIDAQIeAQIXgAAKCRBD1cSVMsuhqXpiA/480ART4E01q4VplEt1
+ FoHlv/cxq4eH5UmxZe9G3H4/IYUTAfzT5LTwrGG+1rQHY+muAW0sqQEgbiXXw3E2
+ zAqwELQXZUKKLbyjsv3Ry8xe3twmqig/A7bszVEtEE9B5PLws4kscmZWQ5u4Z3I7
+ FDcQzOfLmr8VPiGWyn8LMqWMbA==
+ =Wvku
+ -----END PGP PUBLIC KEY BLOCK-----

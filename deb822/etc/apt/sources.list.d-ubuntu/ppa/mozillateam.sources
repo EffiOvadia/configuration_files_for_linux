@@ -1,4 +1,4 @@
-X-Repolib-Name: MozillaTeam PPA
+X-Repolib-Name: MozillaTeam
 Enabled: yes
 Types: deb
 URIs: https://ppa.launchpadcontent.net/mozillateam/ppa/ubuntu/

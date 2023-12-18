@@ -1,4 +1,4 @@
-X-Repolib-Name: KeePassXC PPA
+X-Repolib-Name: KeePassXC
 Enabled: yes
 Types: deb
 URIs: https://ppa.launchpadcontent.net/phoerious/keepassxc/ubuntu/
