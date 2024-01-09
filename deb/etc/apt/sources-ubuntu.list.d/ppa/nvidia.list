@@ -1,1 +1,0 @@
-deb [arch=amd64 signed-by=/etc/apt/trusted.gpg.d/nvidia.gpg] https://ppa.launchpadcontent.net/graphics-drivers/ppa/ubuntu jammy main

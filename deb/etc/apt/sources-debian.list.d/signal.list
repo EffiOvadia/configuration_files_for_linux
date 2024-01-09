@@ -1,2 +1,0 @@
-deb [arch=amd64 signed-by=/etc/apt/trusted.gpg.d/signal.gpg] https://updates.signal.org/desktop/apt xenial main
-# wget -O- https://updates.signal.org/desktop/apt/keys.asc | gpg --dearmor > /etc/apt/trusted.gpg.d/signal.gpg

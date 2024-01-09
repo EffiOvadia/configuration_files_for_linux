@@ -1,1 +1,0 @@
-deb [arch=amd64 signed-by=/etc/apt/trusted.gpg.d/virtualbox.gpg] https://download.virtualbox.org/virtualbox/debian jammy non-free contrib
