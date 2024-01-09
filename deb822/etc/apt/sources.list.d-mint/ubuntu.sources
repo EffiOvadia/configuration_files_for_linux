@@ -1,7 +1,7 @@
 X-Repolib-Name: Ubuntu Jammy Jellyfish 22.04
 Enabled: yes
 Types: deb
-URIs: https://mirrors.nipa.cloud/ubuntu https://mirror.sabay.com.kh/ubuntu
+URIs: http://mirror.il.kamatera.com/ubuntu
 Suites: jammy jammy-updates jammy-backports jammy-security
 Components: main restricted universe multiverse
 Architectures: amd64

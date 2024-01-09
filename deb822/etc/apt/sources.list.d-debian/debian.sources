@@ -1,7 +1,7 @@
 X-Repolib-Name: Debian GNU/Linux (stable)
 Enabled: yes
 Types: deb 
-URIs: https://deb.debian.org/debian/ 
+URIs: http://deb.debian.org/debian/ 
 Suites: stable stable-updates stable-backports
 Components: main contrib non-free non-free-firmware
 Architectures: amd64
@@ -10,7 +10,7 @@ Signed-By: /usr/share/keyrings/debian-archive-keyring.gpg
 X-Repolib-Name: Debian GNU/Linux (stable)
 Enabled: yes
 Types: deb 
-URIs: https://security.debian.org/debian-security
+URIs: http://security.debian.org/debian-security
 Suites: stable-security
 Components: main contrib non-free non-free-firmware
 Architectures: amd64

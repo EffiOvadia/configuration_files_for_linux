@@ -1,7 +1,7 @@
 X-Repolib-Name: Ubuntu 23.10 mantic
 Enabled: yes
 Types: deb
-URIs: http://us.archive.ubuntu.com/ubuntu http://cn.archive.ubuntu.com/ubuntu
+URIs: http://us.archive.ubuntu.com/ubuntu http://il.archive.ubuntu.com/ubuntu
 Suites: mantic mantic-updates mantic-backports mantic-security
 Components: main restricted universe multiverse
 Architectures: amd64

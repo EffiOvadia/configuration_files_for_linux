@@ -1,6 +1,6 @@
 X-Repolib-Name: Kali GNU/Linux Rolling
 Enabled: yes
-Types: deb deb-src
+Types: deb
 URIs: http://http.kali.org/kali
 Suites: kali-rolling
 Components: main contrib non-free non-free-firmware
