@@ -1,0 +1,4 @@
+[PiHole]
+title=Pi-hole FTL AD Blocker
+description=DNS sinkhole server
+ports=53,67/udp|53,67,80/tcp

@@ -1,0 +1,4 @@
+[WireGuard]
+title=WireGuard VPN Server
+description=WireGuard Server 
+ports=51820/udp
