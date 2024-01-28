@@ -1,4 +1,0 @@
-[xRDP]
-title=Remote Desktop Service
-description=Remote Desktop Protocol (on port 3389)
-ports=3389/tcp
