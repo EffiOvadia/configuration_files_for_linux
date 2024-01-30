@@ -86,7 +86,8 @@ X-Repolib-Name: Microsoft Powershell
 Enabled: yes
 Types: deb
 URIs: https://packages.microsoft.com/repos/microsoft-ubuntu-mantic-prod
-Suites: mantic
+Suites: insiders-fast
+# Suites: insiders-slow
 Components: main
 Architectures: amd64
 Signed-By: 
