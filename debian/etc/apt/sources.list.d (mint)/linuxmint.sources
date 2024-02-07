@@ -1,10 +1,9 @@
 # Linux Mint Repositories
-X-Repolib-Name: Linux Mint 21.1 vera
+X-Repolib-Name: Linux Mint
 Enabled: yes
 Types: deb
-# Original URL: https://packages.linuxmint.com
-URIs: https://mirror1.ku.ac.th/linuxmint-packages https://mirror.kku.ac.th/linuxmint-packages
-Suites: vera
+URIs: https://packages.linuxmint.com
+Suites: virginia
 Components: main upstream import backport
 Architectures: amd64
 Signed-By: 
