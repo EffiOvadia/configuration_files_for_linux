@@ -1,4 +1,4 @@
-X-Repolib-Name: Cloudflare WARP 
+X-Repolib-Name: Cloudflare  WARP 
 Enabled: yes
 Types: deb
 URIs: https://pkg.cloudflareclient.com/
