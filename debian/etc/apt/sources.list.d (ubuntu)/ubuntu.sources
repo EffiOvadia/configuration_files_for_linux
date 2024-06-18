@@ -1,8 +1,8 @@
-X-Repolib-Name: Ubuntu 23.10 mantic
+X-Repolib-Name: Ubuntu 24.04 noble
 Enabled: yes
 Types: deb
 URIs: http://us.archive.ubuntu.com/ubuntu http://il.archive.ubuntu.com/ubuntu
-Suites: mantic mantic-updates mantic-backports mantic-security
+Suites: noble noble-updates noble-backports noble-security
 Components: main restricted universe multiverse
 Architectures: amd64
 Signed-By: /usr/share/keyrings/ubuntu-archive-keyring.gpg
