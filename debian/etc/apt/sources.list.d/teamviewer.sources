@@ -5,9 +5,9 @@ URIs: https://linux.teamviewer.com/deb
 Suites: stable
 Components: main
 Architectures: amd64
+# get key:  wget -O - https://linux.teamviewer.com/pubkey/currentkey.asc
 Signed-By: 
  -----BEGIN PGP PUBLIC KEY BLOCK-----
- Version: GnuPG v1
  .
  mQINBFjGrX0BEADDestKii7nKM61wsoA3Cohcs6xF82uov41l/4DIJDxDmmplSsQ
  XwlojU7FlEDpv8KYbVtHak4XWBSzkhSnVqFip5+MNYkJIDh2edUZj4z1L3yLFCmQ
@@ -58,6 +58,3 @@ Signed-By:
  CFIT2zpFW4YaLJqnwlz1iQqnfjXf+X9SkUYwLUf9Tg==
  =ebxN
  -----END PGP PUBLIC KEY BLOCK-----
-
-### get new key:
-# wget -O - https://linux.teamviewer.com/pubkey/currentkey.asc
