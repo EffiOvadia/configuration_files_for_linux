@@ -5,6 +5,7 @@ URIs: https://www.ui.com/downloads/unifi/debian
 Suites: stable
 Components: ubiquiti
 Architectures: amd64
+# sudo apt-get update --allow-releaseinfo-change
 Signed-By: 
  -----BEGIN PGP PUBLIC KEY BLOCK-----
  .
