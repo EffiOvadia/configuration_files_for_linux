@@ -2,7 +2,7 @@ X-Repolib-Name: Oracle VirualBox
 Enabled: yes
 Types: deb
 URIs: https://download.virtualbox.org/virtualbox/debian
-Suites: jammy
+Suites: noble
 Components: non-free contrib
 Architectures: amd64
 Signed-By: 

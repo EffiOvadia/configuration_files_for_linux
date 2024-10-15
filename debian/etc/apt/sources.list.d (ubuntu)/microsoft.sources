@@ -82,9 +82,8 @@ Signed-By:
 X-Repolib-Name: Microsoft Powershell
 Enabled: yes
 Types: deb
-URIs: https://packages.microsoft.com/repos/microsoft-ubuntu-mantic-prod
-Suites: insiders-fast
-# Suites: insiders-slow
+URIs: https://packages.microsoft.com/repos/microsoft-ubuntu-noble-prod
+Suites: noble
 Components: main
 Architectures: amd64
 Signed-By: 
@@ -110,9 +109,8 @@ Signed-By:
 X-Repolib-Name: Microsoft Prod
 Enabled: yes
 Types: deb
-URIs: https://packages.microsoft.com/ubuntu/23.10/prod
-Suites: insiders-fast
-# Suites: insiders-slow
+URIs: https://packages.microsoft.com/ubuntu/24.04/prod
+Suites: noble
 Components: main
 Architectures: amd64
 Signed-By: 
