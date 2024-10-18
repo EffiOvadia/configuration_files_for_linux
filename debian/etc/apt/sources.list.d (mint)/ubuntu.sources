@@ -1,8 +1,8 @@
-X-Repolib-Name: Ubuntu 24.04 Noble
+X-Repolib-Name: Ubuntu 22.04 jammy
 Enabled: yes
 Types: deb
 URIs: http://us.archive.ubuntu.com/ubuntu http://il.archive.ubuntu.com/ubuntu
-Suites: noble noble-updates noble-backports noble-security
+Suites: jammy jammy-updates jammy-backports jammy-security
 Components: main restricted universe multiverse
 Architectures: amd64
 Signed-By:
