@@ -1,8 +1,8 @@
-X-Repolib-Name: KDenLive 
+X-Repolib-Name: KDenLive
 Enabled: yes
 Types: deb
 URIs: https://ppa.launchpadcontent.net/kdenlive/kdenlive-stable/ubuntu/
-Suites: jammy
+Suites: noble
 Components: main
 Architectures: amd64
 Signed-By:

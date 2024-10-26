@@ -3,7 +3,7 @@ X-Repolib-Name: Linux Mint
 Enabled: yes
 Types: deb
 URIs: http://packages.linuxmint.com
-Suites: virginia
+Suites: wilma
 Components: main upstream import backport
 Architectures: amd64
 Signed-By: 

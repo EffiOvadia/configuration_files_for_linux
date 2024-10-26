@@ -2,7 +2,7 @@ X-Repolib-Name: Docker
 Enabled: yes
 Types: deb
 URIs: https://download.docker.com/linux/ubuntu
-Suites: jammy
+Suites: noble
 Components: stable
 Architectures: amd64
 Signed-By:

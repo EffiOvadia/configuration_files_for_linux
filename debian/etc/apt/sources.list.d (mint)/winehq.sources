@@ -2,7 +2,7 @@ X-Repolib-Name: WineHQ Emulator
 Enabled: yes
 Types: deb
 URIs: https://dl.winehq.org/wine-builds/ubuntu
-Suites: jammy
+Suites: noble
 Components: main
 Architectures: amd64 i386
 Signed-By: 
