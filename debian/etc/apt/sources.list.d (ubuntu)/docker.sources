@@ -3,6 +3,7 @@ Enabled: yes
 Types: deb
 URIs: https://download.docker.com/linux/ubuntu
 Suites: noble
+#Suites: oracular
 Components: stable
 Architectures: amd64
 Signed-By:

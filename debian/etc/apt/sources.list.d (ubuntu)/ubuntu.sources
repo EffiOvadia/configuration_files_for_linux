@@ -1,12 +1,13 @@
-X-Repolib-Name: Ubuntu 24.04 Noble
+X-Repolib-Name: Canonical Official Ubuntu Repositories
 Enabled: yes
 Types: deb
 URIs: http://us.archive.ubuntu.com/ubuntu http://il.archive.ubuntu.com/ubuntu
-Suites: noble noble-updates noble-backports noble-security noble-proposed
+Suites: noble noble-updates noble-security noble-backports noble-proposed
+#Suites: oracular oracular-updates oracular-security oracular-backports oracular-proposed
 Components: main restricted universe multiverse
 Architectures: amd64
 # Signed-By: /usr/share/keyrings/ubuntu-archive-keyring.gpg
-# gpg --keyring ./key.gpg --no-default-keyring --export -a
+# gpg --keyring /usr/share/keyrings/ubuntu-archive-keyring.gpg --no-default-keyring --export -a
 Signed-By:
  -----BEGIN PGP PUBLIC KEY BLOCK-----
  .

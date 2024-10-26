@@ -3,9 +3,10 @@ Enabled: yes
 Types: deb
 URIs: https://ppa.launchpadcontent.net/cappelikan/ppa/ubuntu/
 Suites: noble
+#Suites: oracular
 Components: main
 Architectures: amd64
-Signed-By:
+Signed-By: 
  -----BEGIN PGP PUBLIC KEY BLOCK-----
  .
  mQINBF1oQY8BEADzYbSG0DGjT1hasphb95LynI4sO+wXAm1FSvynqxLu601LpPxs
