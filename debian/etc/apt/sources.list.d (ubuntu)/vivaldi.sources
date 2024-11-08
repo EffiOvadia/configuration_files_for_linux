@@ -5,7 +5,7 @@ URIs: https://repo.vivaldi.com/stable/deb/
 Suites: stable
 Components: main
 Architectures: amd64
-Signed-By:  
+Signed-By:
  -----BEGIN PGP PUBLIC KEY BLOCK-----
  .
  mQINBGO9ZysBEACeLmXsTfEk6Msqskhkr+fU2uFTinefc6o8p1T9uRVkBiIM641/
