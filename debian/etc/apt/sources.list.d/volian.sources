@@ -1,8 +1,0 @@
-X-Repolib-Name: Volian Nala
-Enabled: yes
-Types: deb
-URIs: https://deb.volian.org/volian/
-Suites: nala
-Components: main
-Architectures: amd64
-Signed-By: /usr/share/keyrings/volian-archive-keyring.gpg
