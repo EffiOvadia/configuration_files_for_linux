@@ -1,7 +1,8 @@
 X-Repolib-Name: Chromium Browser
 Enabled: yes
 Types: deb
-URIs: https://freeshell.de/phd/chromium/oracular
+URIs: https://freeshell.de/phd/chromium/noble
+#URIs: https://freeshell.de/phd/chromium/oracular
 Suites: /
 Components: 
 Architectures: amd64
