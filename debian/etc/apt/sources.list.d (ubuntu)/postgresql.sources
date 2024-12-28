@@ -2,8 +2,8 @@ X-Repolib-Name: PostgreSQL
 Enabled: yes
 Types: deb
 URIs: http://apt.postgresql.org/pub/repos/apt
-Suites: noble-pgdg
-#Suites: oracular-pgdg
+#Suites: noble-pgdg
+Suites: oracular-pgdg
 Components: main
 Architectures: amd64
 Signed-By: 

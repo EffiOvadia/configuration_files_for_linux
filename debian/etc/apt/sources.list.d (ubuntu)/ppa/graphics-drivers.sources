@@ -2,8 +2,8 @@ X-Repolib-Name: Graphics Drivers (NVIDIA)
 Enabled: yes
 Types: deb
 URIs: https://ppa.launchpadcontent.net/graphics-drivers/ppa/ubuntu
-Suites: noble
-#Suites: oracular
+#Suites: noble
+Suites: oracular
 Components: main
 Architectures: amd64
 Signed-By:
