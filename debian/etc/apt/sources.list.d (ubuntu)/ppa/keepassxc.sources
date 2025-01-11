@@ -1,4 +1,4 @@
-X-Repolib-Name: KeePassXC
+Name: KeePassXC
 Enabled: yes
 Types: deb
 URIs: https://ppa.launchpadcontent.net/phoerious/keepassxc/ubuntu/
@@ -6,7 +6,7 @@ URIs: https://ppa.launchpadcontent.net/phoerious/keepassxc/ubuntu/
 Suites: oracular
 Components: main
 Architectures: amd64
-Signed-By:  
+Signed-By: 
  -----BEGIN PGP PUBLIC KEY BLOCK-----
  .
  mQINBFnudIUBEAC/OhysfBjueQn2sIIHjkMJGDBZlRj/IcnVRD0G2eE5LvlQkohi

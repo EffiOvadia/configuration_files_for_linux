@@ -1,4 +1,4 @@
-X-Repolib-Name: Teamviewer
+Name: Teamviewer
 Enabled: yes
 Types: deb
 URIs: https://linux.teamviewer.com/deb
@@ -6,7 +6,7 @@ Suites: stable
 Components: main
 Architectures: amd64
 # wget -O - https://linux.teamviewer.com/pubkey/currentkey.asc
-Signed-By:
+Signed-By: 
  -----BEGIN PGP PUBLIC KEY BLOCK-----
  .
  mQINBFjGrX0BEADDestKii7nKM61wsoA3Cohcs6xF82uov41l/4DIJDxDmmplSsQ

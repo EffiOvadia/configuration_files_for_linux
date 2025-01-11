@@ -1,4 +1,4 @@
-X-Repolib-Name: Yandex Browser
+Name: Yandex Browser
 Enabled: yes
 Types: deb
 URIs: http://repo.yandex.ru/yandex-browser/deb

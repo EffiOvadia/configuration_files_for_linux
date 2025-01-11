@@ -1,4 +1,4 @@
-X-Repolib-Name: Spotify
+Name: Spotify
 Enabled: yes
 Types: deb
 URIs: http://repository.spotify.com

@@ -1,11 +1,11 @@
-X-Repolib-Name: Telegram
+Name: Telegram
 Enabled: yes
 Types: deb
 URIs: https://ppa.launchpadcontent.net/atareao/telegram/ubuntu/
 Suites: noble
 Components: main
 Architectures: amd64
-Signed-By:
+Signed-By: 
  -----BEGIN PGP PUBLIC KEY BLOCK-----
  .
  mQINBGYzooUBEACXMTYB+2nQQ8IB6Q/klP+7POD9a1cTOWYAIjvrI86FXTej8B55

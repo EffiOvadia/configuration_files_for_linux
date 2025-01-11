@@ -1,11 +1,11 @@
-X-Repolib-Name: Helix editor
+Name: Helix editor
 Enabled: yes
 Types: deb
 URIs: https://ppa.launchpadcontent.net/maveonair/helix-editor/ubuntu/
 Suites: noble
 Components: main
 Architectures: amd64
-Signed-By:
+Signed-By: 
  -----BEGIN PGP PUBLIC KEY BLOCK-----
  .
  mQINBGO12s8BEACXL6xcHDOpwPgztfaK7ewwCqCf/mUrl0H/qAK5//YozVQPuvpM

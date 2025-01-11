@@ -1,11 +1,11 @@
-X-Repolib-Name: Element
+Name: Element
 Enabled: yes
 Types: deb
 URIs: https://packages.element.io/debian/
 Suites: default
 Components: main
 Architectures: amd64
-Signed-By:
+Signed-By: 
  -----BEGIN PGP PUBLIC KEY BLOCK-----
  .
  mQINBFy1FpcBEADemFRfa16qbsgvnEq5TPhFOssXfSLG4eGBrU0O6adDwv6QyE53

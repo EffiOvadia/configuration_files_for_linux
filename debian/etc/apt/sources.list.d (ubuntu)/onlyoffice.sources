@@ -1,4 +1,4 @@
-X-Repolib-Name: Onlyoffice
+Name: Onlyoffice
 Enabled: yes
 Types: deb
 URIs: https://download.onlyoffice.com/repo/debian

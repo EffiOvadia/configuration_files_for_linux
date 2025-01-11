@@ -1,4 +1,4 @@
-X-Repolib-Name: Wireshark
+Name: Wireshark
 Enabled: yes
 Types: deb
 URIs: https://ppa.launchpadcontent.net/wireshark-dev/stable/ubuntu
@@ -6,7 +6,7 @@ URIs: https://ppa.launchpadcontent.net/wireshark-dev/stable/ubuntu
 Suites: oracular
 Components: main
 Architectures: amd64
-Signed-By:
+Signed-By: 
  -----BEGIN PGP PUBLIC KEY BLOCK-----
  .
  xsFNBFSLYMIBEAC40a/fcfUK5r7VDT8v/mLuYANqcD5EcLCy9yYhMssFJJIlV+b1

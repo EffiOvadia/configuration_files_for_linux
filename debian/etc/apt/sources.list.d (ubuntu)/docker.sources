@@ -1,4 +1,4 @@
-X-Repolib-Name: Docker
+Name: Docker
 Enabled: yes
 Types: deb
 URIs: https://download.docker.com/linux/ubuntu
@@ -6,7 +6,7 @@ URIs: https://download.docker.com/linux/ubuntu
 Suites: oracular
 Components: stable
 Architectures: amd64
-Signed-By:
+Signed-By: 
  -----BEGIN PGP PUBLIC KEY BLOCK-----
  .
  mQINBFit2ioBEADhWpZ8/wvZ6hUTiXOwQHXMAlaFHcPH9hAtr4F1y2+OYdbtMuth

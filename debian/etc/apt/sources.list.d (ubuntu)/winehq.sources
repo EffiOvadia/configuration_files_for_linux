@@ -1,4 +1,4 @@
-X-Repolib-Name: WineHQ
+Name: WineHQ
 Enabled: yes
 Types: deb
 URIs: https://dl.winehq.org/wine-builds/ubuntu
@@ -7,7 +7,7 @@ Suites: oracular
 Components: main
 Architectures: amd64 i386
 Signed-By: 
-  -----BEGIN PGP PUBLIC KEY BLOCK-----
+ -----BEGIN PGP PUBLIC KEY BLOCK-----
  .
  mQGNBFwOmrgBDAC9FZW3dFpew1hwDaqRfdQQ1ABcmOYu1NKZHwYjd+bGvcR2LRGe
  R5dfRqG1Uc/5r6CPCMvnWxFprymkqKEADn8eFn+aCnPx03HrhA+lNEbciPfTHylt

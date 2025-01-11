@@ -1,4 +1,4 @@
-X-Repolib-Name: Openvpn
+Name: Openvpn
 Enabled: yes
 Types: deb
 URIs: https://build.openvpn.net/debian/openvpn/release/2.6
@@ -6,7 +6,7 @@ Suites: noble
 Components: main
 Architectures: amd64
 Signed-By: 
-  -----BEGIN PGP PUBLIC KEY BLOCK-----
+ -----BEGIN PGP PUBLIC KEY BLOCK-----
  .
  mQENBE45PsIBCAC2K2LRZPQIUmJlCDKcncfR6vok2wowDpGpHZffvEEoUj/DoocR
  LLpPHR5RB1zMWIs2IjF8vOtXMCBguDgtEvQTh6p6DM3D1fTnYp3pPlQyyzAuC81v

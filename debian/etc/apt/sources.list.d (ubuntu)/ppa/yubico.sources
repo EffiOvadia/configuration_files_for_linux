@@ -1,4 +1,4 @@
-X-Repolib-Name: Yubico
+Name: Yubico
 Enabled: yes
 Types: deb
 URIs: https://ppa.launchpadcontent.net/yubico/stable/ubuntu/
@@ -6,7 +6,7 @@ URIs: https://ppa.launchpadcontent.net/yubico/stable/ubuntu/
 Suites: oracular
 Components: main
 Architectures: amd64
-Signed-By:
+Signed-By: 
  -----BEGIN PGP PUBLIC KEY BLOCK-----
  .
  mQINBGY0fcoBEADCzGpOqTvCbTW4+wCrI8838MhKbdv25479RtRWMWCWJfUNvSwZ

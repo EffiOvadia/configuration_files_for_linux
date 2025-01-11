@@ -1,11 +1,11 @@
-X-Repolib-Name: Brave Browser
+Name: Brave Browser
 Enabled: yes
 Types: deb
 URIs: https://brave-browser-apt-release.s3.brave.com/
 Suites: stable
 Components: main
 Architectures: amd64
-Signed-By:
+Signed-By: 
  -----BEGIN PGP PUBLIC KEY BLOCK-----
  .
  mQINBGOrCckBEADNcJUEATinOnryWPrc9nC3CrU6sDuJArVki6KMx3lkfSSATFfN

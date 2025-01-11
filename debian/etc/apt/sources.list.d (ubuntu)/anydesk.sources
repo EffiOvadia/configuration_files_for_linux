@@ -1,11 +1,11 @@
-X-Repolib-Name: AnyDesk
+Name: AnyDesk
 Enabled: yes
 Types: deb
 URIs: http://deb.anydesk.com/
 Suites: all
 Components: main
 Architectures: amd64
-Signed-By:
+Signed-By: 
  -----BEGIN PGP PUBLIC KEY BLOCK-----
  .
  mQENBFo4y64BCADDrIpJwfhOueAvVcbsziRiIBEKg1Bkz5ozDvO9dmU6bInCSesh

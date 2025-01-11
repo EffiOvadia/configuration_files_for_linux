@@ -1,4 +1,4 @@
-X-Repolib-Name: Chromium Browser
+Name: Chromium Browser
 Enabled: yes
 Types: deb
 URIs: https://freeshell.de/phd/chromium/noble
@@ -6,10 +6,8 @@ URIs: https://freeshell.de/phd/chromium/noble
 Suites: /
 Components: 
 Architectures: amd64
-Signed-By:
+Signed-By: 
  -----BEGIN PGP PUBLIC KEY BLOCK-----
- Comment: Hostname:
- Version: Hockeypuck 2.2
  .
  xsDNBGGibJsBDACrAxUxYp/jpbRkr+yWPfBrIqpKfsar56mzXZDLbPQC3k3sViUN
  u18rdVnxofxcTZU+oIOSsODUoKUtsUGCQlDOUK2s/JhHrRMd+rtF0n6oLsUTdCgc
