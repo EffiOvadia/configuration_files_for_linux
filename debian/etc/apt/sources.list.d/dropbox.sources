@@ -1,4 +1,4 @@
-X-Repolib-Name: Dropbox
+Name: Dropbox
 Enabled: yes
 Types: deb
 URIs: http://linux.dropbox.com/debian

@@ -1,4 +1,4 @@
-X-Repolib-Name: Ubuntu Repositories
+Name: Ubuntu Repositories
 Enabled: yes
 Types: deb
 URIs: http://us.archive.ubuntu.com/ubuntu http://il.archive.ubuntu.com/ubuntu

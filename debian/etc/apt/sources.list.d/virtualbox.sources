@@ -1,4 +1,4 @@
-X-Repolib-Name: Oracle VirualBox 
+Name: Oracle VirualBox 
 Enabled: yes
 Types: deb
 URIs: https://download.virtualbox.org/virtualbox/debian

@@ -1,4 +1,4 @@
-X-Repolib-Name: Kali GNU/Linux Rolling
+Name: Kali GNU/Linux Rolling
 Enabled: yes
 Types: deb
 URIs: http://http.kali.org/kali

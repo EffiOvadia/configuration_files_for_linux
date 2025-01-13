@@ -1,4 +1,4 @@
-X-Repolib-Name: Docker
+Name: Docker
 Enabled: yes
 Types: deb
 URIs: https://download.docker.com/linux/debian

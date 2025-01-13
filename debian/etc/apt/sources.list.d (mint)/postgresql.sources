@@ -1,4 +1,4 @@
-X-Repolib-Name: PostgreSQL
+Name: PostgreSQL
 Enabled: yes
 Types: deb
 URIs: http://apt.postgresql.org/pub/repos/apt

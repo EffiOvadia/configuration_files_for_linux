@@ -1,4 +1,4 @@
-X-Repolib-Name: Microsoft Edge
+Name: Microsoft Edge
 Enabled: yes
 Types: deb
 URIs: https://packages.microsoft.com/repos/edge/
@@ -25,7 +25,7 @@ Signed-By:
  =J6gs
  -----END PGP PUBLIC KEY BLOCK-----
 
-X-Repolib-Name: VSCode
+Name: VSCode
 Enabled: yes
 Types: deb
 URIs: https://packages.microsoft.com/repos/vscode https://packages.microsoft.com/repos/code/
@@ -52,7 +52,7 @@ Signed-By:
  =J6gs
  -----END PGP PUBLIC KEY BLOCK-----
 
-X-Repolib-Name: Microsoft Teams
+Name: Microsoft Teams
 Enabled: yes
 Types: deb
 URIs: https://packages.microsoft.com/repos/ms-teams
@@ -79,7 +79,7 @@ Signed-By:
  =J6gs
  -----END PGP PUBLIC KEY BLOCK-----
 
-X-Repolib-Name: Microsoft Powershell
+Name: Microsoft Powershell
 Enabled: yes
 Types: deb
 URIs: https://packages.microsoft.com/repos/microsoft-debian-bookworm-prod
@@ -107,7 +107,7 @@ Signed-By:
  =J6gs
  -----END PGP PUBLIC KEY BLOCK-----
 
-X-Repolib-Name: Microsoft Prod
+Name: Microsoft Prod
 Enabled: yes
 Types: deb
 URIs: https://packages.microsoft.com/debian/12/prod/

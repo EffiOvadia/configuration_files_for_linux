@@ -1,5 +1,4 @@
-# Linux Mint Repositories
-X-Repolib-Name: Linux Mint
+Name: Linux Mint
 Enabled: yes
 Types: deb
 URIs: http://packages.linuxmint.com

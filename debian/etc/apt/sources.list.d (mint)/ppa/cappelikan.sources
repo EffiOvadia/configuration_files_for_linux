@@ -1,4 +1,4 @@
-X-Repolib-Name: Ubuntu Mainline Kernel
+Name: Ubuntu Mainline Kernel
 Enabled: yes
 Types: deb
 URIs: https://ppa.launchpadcontent.net/cappelikan/ppa/ubuntu/
