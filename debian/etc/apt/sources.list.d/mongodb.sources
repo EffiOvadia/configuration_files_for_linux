@@ -1,9 +1,9 @@
 Name: MongoDB
 Enabled: yes
 Types: deb
-URIs: http://repo.mongodb.org/apt/ubuntu
-Suites: noble/mongodb-org/8.0
-Components: multiverse
+URIs: http://repo.mongodb.org/apt/debian
+Suites: bookworm/mongodb-org/8.0
+Components: main
 Architectures: amd64
 Signed-By:
  -----BEGIN PGP PUBLIC KEY BLOCK-----
