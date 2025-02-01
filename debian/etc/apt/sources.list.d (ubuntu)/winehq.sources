@@ -6,6 +6,7 @@ URIs: https://dl.winehq.org/wine-builds/ubuntu
 Suites: oracular
 Components: main
 Architectures: amd64 i386
+# https://dl.winehq.org/wine-builds/winehq.key
 Signed-By: 
  -----BEGIN PGP PUBLIC KEY BLOCK-----
  .

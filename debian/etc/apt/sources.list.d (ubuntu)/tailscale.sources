@@ -5,6 +5,7 @@ URIs: https://pkgs.tailscale.com/stable/ubuntu
 Suites: oracular
 Components: main
 Architectures: amd64
+# https://pkgs.tailscale.com/stable/ubuntu/oracular.noarmor.gpg
 Signed-By:
  -----BEGIN PGP PUBLIC KEY BLOCK-----
  .

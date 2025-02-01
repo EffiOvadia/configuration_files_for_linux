@@ -5,7 +5,7 @@ URIs: https://linux.teamviewer.com/deb
 Suites: stable
 Components: main
 Architectures: amd64
-# wget -O - https://linux.teamviewer.com/pubkey/currentkey.asc
+# https://linux.teamviewer.com/pubkey/currentkey.asc
 Signed-By: 
  -----BEGIN PGP PUBLIC KEY BLOCK-----
  .

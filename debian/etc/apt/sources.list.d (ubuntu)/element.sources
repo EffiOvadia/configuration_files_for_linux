@@ -5,6 +5,7 @@ URIs: https://packages.element.io/debian/
 Suites: default
 Components: main
 Architectures: amd64
+# https://packages.element.io/debian/element-io-archive-keyring.asc
 Signed-By: 
  -----BEGIN PGP PUBLIC KEY BLOCK-----
  .

@@ -4,6 +4,7 @@ Types: deb
 URIs: https://packages.microsoft.com/repos/edge/
 Suites: stable
 Components: main
+# https://packages.microsoft.com/keys/microsoft.asc
 Architectures: amd64
 Signed-By: 
  -----BEGIN PGP PUBLIC KEY BLOCK-----
@@ -32,6 +33,7 @@ URIs: https://packages.microsoft.com/repos/vscode https://packages.microsoft.com
 Suites: stable
 Components: main
 Architectures: amd64
+# https://packages.microsoft.com/keys/microsoft.asc
 Signed-By: 
  -----BEGIN PGP PUBLIC KEY BLOCK-----
  .
@@ -59,6 +61,7 @@ URIs: https://packages.microsoft.com/repos/microsoft-ubuntu-noble-prod
 Suites: noble
 Components: main
 Architectures: amd64
+# https://packages.microsoft.com/keys/microsoft.asc
 Signed-By: 
  -----BEGIN PGP PUBLIC KEY BLOCK-----
  .
@@ -86,6 +89,7 @@ URIs: https://packages.microsoft.com/ubuntu/24.04/prod
 Suites: noble
 Components: main
 Architectures: amd64
+# https://packages.microsoft.com/keys/microsoft.asc
 Signed-By: 
  -----BEGIN PGP PUBLIC KEY BLOCK-----
  .

@@ -5,6 +5,7 @@ URIs: https://apt.fury.io/wez/
 Suites: *
 Components: *
 Architectures: amd64 
+# https://apt.fury.io/wez/gpg.key
 Signed-By: 
  -----BEGIN PGP PUBLIC KEY BLOCK-----
  .

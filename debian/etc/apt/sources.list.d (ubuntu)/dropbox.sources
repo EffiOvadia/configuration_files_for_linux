@@ -6,6 +6,7 @@ URIs: http://linux.dropbox.com/ubuntu
 Suites: oracular
 Components: main
 Architectures: amd64
+# https://linux.dropbox.com/fedora/rpm-public-key.asc
 Signed-By: 
  -----BEGIN PGP PUBLIC KEY BLOCK-----
  .

@@ -6,6 +6,7 @@ URIs: http://apt.postgresql.org/pub/repos/apt
 Suites: oracular-pgdg
 Components: main
 Architectures: amd64
+# https://www.postgresql.org/media/keys/ACCC4CF8.asc
 Signed-By: 
  -----BEGIN PGP PUBLIC KEY BLOCK-----
  .

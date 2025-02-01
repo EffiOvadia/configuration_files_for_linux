@@ -5,6 +5,7 @@ URIs: https://download.vscodium.com/debs
 Suites: vscodium
 Components: main
 Architectures: amd64
+# https://gitlab.com/paulcarroty/vscodium-deb-rpm-repo/raw/master/pub.gpg
 Signed-By: 
  -----BEGIN PGP PUBLIC KEY BLOCK-----
  .

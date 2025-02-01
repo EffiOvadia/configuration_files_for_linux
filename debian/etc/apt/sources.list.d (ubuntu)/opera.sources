@@ -5,6 +5,7 @@ URIs: https://deb.opera.com/opera-stable/
 Suites: stable
 Components: non-free
 Architectures: amd64
+# https://deb.opera.com/archive.key
 Signed-By: 
  -----BEGIN PGP PUBLIC KEY BLOCK-----
  .
