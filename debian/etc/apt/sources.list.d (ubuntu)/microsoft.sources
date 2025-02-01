@@ -4,8 +4,8 @@ Types: deb
 URIs: https://packages.microsoft.com/repos/edge/
 Suites: stable
 Components: main
-# https://packages.microsoft.com/keys/microsoft.asc
 Architectures: amd64
+# https://packages.microsoft.com/keys/microsoft.asc
 Signed-By: 
  -----BEGIN PGP PUBLIC KEY BLOCK-----
  .
