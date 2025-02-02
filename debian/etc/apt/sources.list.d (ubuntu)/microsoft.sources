@@ -57,7 +57,7 @@ Signed-By:
 Name: Microsoft Powershell
 Enabled: yes
 Types: deb
-URIs: https://packages.microsoft.com/repos/microsoft-ubuntu-noble-prod
+URIs: https://packages.microsoft.com/repos/microsoft-ubuntu-noble-prod https://packages.microsoft.com/ubuntu/24.04/prod
 Suites: noble
 Components: main
 Architectures: amd64
@@ -82,11 +82,11 @@ Signed-By:
  =J6gs
  -----END PGP PUBLIC KEY BLOCK-----
 
-Name: Microsoft Products
+Name: Microsoft Teams
 Enabled: yes
 Types: deb
-URIs: https://packages.microsoft.com/ubuntu/24.04/prod
-Suites: noble
+URIs: https://packages.microsoft.com/repos/ms-teams
+Suites: stable
 Components: main
 Architectures: amd64
 # https://packages.microsoft.com/keys/microsoft.asc
